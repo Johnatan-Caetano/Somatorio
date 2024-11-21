@@ -97,13 +97,6 @@ O jogo é leve e otimizado para rodar de maneira eficiente na maioria das máqui
 ### Animações
 - As animações são feitas com transições CSS simples, que são leves e não consomem muitos recursos, garantindo um desempenho suave.
 
-## Conclusão
-
-O jogo Somatório tem um consumo de memória e desempenho muito eficiente, permitindo que seja jogado sem problemas em uma ampla gama de dispositivos, desde smartphones mais simples até computadores de alta performance. O uso de armazenamento local oferece uma boa experiência de continuidade, sem impactar negativamente o desempenho do jogo.
-
-
-
-
 ## Inspiração Para o Projeto
 O jogo foi inspirado no famoso jogo 2048 disponibilizando tanto para Android quanto para IOS e também na versão Web.
 - [2048](https://2048game.com/?utm_source=bing-search&msclkid=2928b205da3911d883f4d53b4ccab283) - Desenvolvedora: Gabriele Cirulli - 2014
