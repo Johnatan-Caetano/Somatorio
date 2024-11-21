@@ -11,9 +11,9 @@ Este repositório contém toda a documentação do Somatório, desenvolvido como
 
 🔗[Checklist para o Projeto de Algoritmo](https://docs.google.com/document/d/1CatBMVIVNqbNBmmgbAoUlQGqpjbc98ElBZfwimG97nM/edit?usp=sharing)
 
-🔗[Link do Jogo - Scratch](https://scratch.mit.edu/projects/1099604391)
+🔗[Link do Jogo](https://673ea46f93a7abcc2c99318a--somatorio-complexidade.netlify.app/)
 
-🔗[Video do jogo - Youtube](https://youtu.be/QSmho8mQw30)
+🔗[Video do jogo - Youtube](https://www.youtube.com/watch?v=tpNl85r0HGA)
 
 ## Qual o objetivo do jogo?
 O objetivo desse jogo de raciocínio é juntar os blocos numerados na tela até alcançar 2048. Apesar desse objetivo simples, sempre que fizer um movimento que junta dois blocos do mesmo valor, outro bloco do número par seguinte surgirá na tela. E assim por diante. Se simplesmente juntar blocos aleatoriamente, acabará com a tela cheia de blocos e um aviso de derrota. 
